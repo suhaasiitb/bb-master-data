@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Data Viewer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Employee Payout Data Viewer</h1>
+      <p>Select the year, month, week, and employee ID to fetch data.</p>
+    </header>
+    <form class="form">
+      <div class="form-group">
+        <label for="year">Year:</label>
+        <select id="year">
+          <option value="">Select Year</option>
+          <option value="2024">2024</option>
+          <option value="2025">2025</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="month">Month:</label>
+        <select id="month">
+          <option value="">Select Month</option>
+          <option value="1">January</option>
+          <option value="2">February</option>
+          <option value="3">March</option>
+          <option value="4">April</option>
+          <option value="5">May</option>
+          <option value="6">June</option>
+          <option value="7">July</option>
+          <option value="8">August</option>
+          <option value="9">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="week">Week:</label>
+        <select id="week">
+          <option value="">Select Week</option>
+          <option value="1">Week 1</option>
+          <option value="2">Week 2</option>
+          <option value="3">Week 3</option>
+          <option value="4">Week 4</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="employeeId">Employee ID:</label>
+        <input type="text" id="employeeId" placeholder="Enter Employee ID">
+      </div>
+      <button type="button" id="fetchButton" class="btn">Fetch Data</button>
+    </form>
+
+  <!-- Employee Payout Results -->
+<div id="resultContainer" class="result-container" style="display: none;">
+    <h2>Payout Data</h2>
+    <table class="result-table" style="width: 100%; text-align: center; margin: 0 auto;">
+      <thead>
+        <tr>
+          <th>Column Name</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody id="resultTableBody"></tbody>
+    </table>
+  </div>
+  
+  <!-- Daily Earnings Results -->
+  <div id="dailyResultContainer" class="result-container" style="display: none;">
+    <h2>Daily Earnings</h2>
+    <table class="result-table" style="width: 100%; text-align: center; margin: 0 auto;">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Orders Delivered</th>
+          <th>Earnings</th>
+        </tr>
+      </thead>
+      <tbody id="dailyResultTableBody"></tbody>
+    </table>
+  </div>
+  
+  <style>
+    .result-container {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    .result-table {
+      width: 80%; /* Adjust width as needed */
+      margin: 0 auto;
+      border-collapse: collapse;
+    }
+  
+    .result-table th {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: center;
+      background-color: #f4f4f4;
+      color: black;   /* Set text color to black for headers */
+      font-weight: bold; /* Make header text bold */
+    }
+  
+    .result-table td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: center;
+      color: inherit; /* Keeps table data text color as default */
+    }
+  </style>
+
+  <script src="script.js"></script>
+</body>
+</html>
