@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
             return;
         }
 
-        const payoutFile = `data/${year}/${month}/W-${week}.json`;
-        const dailyFile = `data/${year}/${month}/W-${week}-daily.json`;
+        const payoutFile = `Data/${year}/${month}/W-${week}.json`;
+        const dailyFile = `Data/${year}/${month}/W-${week}-daily.json`;
 
         // Fetch Payout Data
         fetch(payoutFile)
