@@ -30,7 +30,12 @@
   "incentive total": 4273,
   "total without arrears": 8983,
   "total with arrears": 8983,
-  "total with arrears and deductions": 8983
+  "total with arrears and deductions": 8983,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 7443
  },
  {
   "year": 2025,
@@ -62,7 +67,12 @@
   "incentive total": 1406,
   "total without arrears": 4706,
   "total with arrears": 4706,
-  "total with arrears and deductions": 4706
+  "total with arrears and deductions": 4706,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3166
  },
  {
   "year": 2025,
@@ -95,7 +105,12 @@
   "incentive total": 1183,
   "total without arrears": 3403,
   "total with arrears": 3403,
-  "total with arrears and deductions": 3353
+  "total with arrears and deductions": 3353,
+  "vehicle rent": 220,
+  "vehicle rent days": 4,
+  "advance payed": 700,
+  "pending payment": -98.7,
+  "Final Settlement Transferred": 1674.3
  },
  {
   "year": 2025,
@@ -127,7 +142,12 @@
   "incentive total": 963,
   "total without arrears": 6003,
   "total with arrears": 6003,
-  "total with arrears and deductions": 6003
+  "total with arrears and deductions": 6003,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4463
  },
  {
   "year": 2025,
@@ -159,7 +179,12 @@
   "incentive total": 2430,
   "total without arrears": 5850,
   "total with arrears": 5850,
-  "total with arrears and deductions": 5850
+  "total with arrears and deductions": 5850,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 3000,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1530
  },
  {
   "year": 2025,
@@ -192,7 +217,12 @@
   "incentive total": 3311.85009765625,
   "total without arrears": 7021.85009765625,
   "total with arrears": 7321.85009765625,
-  "total with arrears and deductions": 7321.85009765625
+  "total with arrears and deductions": 7321.85009765625,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 6001.85
  },
  {
   "year": 2025,
@@ -224,7 +254,12 @@
   "incentive total": 481.3999938964844,
   "total without arrears": 2191.39990234375,
   "total with arrears": 2191.39990234375,
-  "total with arrears and deductions": 2191.39990234375
+  "total with arrears and deductions": 2191.39990234375,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": -125.15,
+  "Final Settlement Transferred": 746.25
  },
  {
   "year": 2025,
@@ -256,7 +291,12 @@
   "incentive total": 10,
   "total without arrears": 640,
   "total with arrears": 640,
-  "total with arrears and deductions": 640
+  "total with arrears and deductions": 640,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": -40,
+  "Final Settlement Transferred": 600
  },
  {
   "year": 2025,
@@ -289,7 +329,12 @@
   "incentive total": 1895,
   "total without arrears": 5495,
   "total with arrears": 5495,
-  "total with arrears and deductions": 5390
+  "total with arrears and deductions": 5390,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3850
  },
  {
   "year": 2025,
@@ -322,7 +367,12 @@
   "incentive total": 1306,
   "total without arrears": 4406,
   "total with arrears": 4406,
-  "total with arrears and deductions": 4006
+  "total with arrears and deductions": 4006,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2686
  },
  {
   "year": 2025,
@@ -355,7 +405,12 @@
   "incentive total": 913,
   "total without arrears": 3163,
   "total with arrears": 3163,
-  "total with arrears and deductions": 3113
+  "total with arrears and deductions": 3113,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1793
  },
  {
   "year": 2025,
@@ -387,7 +442,12 @@
   "incentive total": 0,
   "total without arrears": 270,
   "total with arrears": 270,
-  "total with arrears and deductions": 270
+  "total with arrears and deductions": 270,
+  "vehicle rent": 220,
+  "vehicle rent days": 2,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": -170
  },
  {
   "year": 2025,
@@ -419,7 +479,12 @@
   "incentive total": 2546,
   "total without arrears": 6776,
   "total with arrears": 6776,
-  "total with arrears and deductions": 6776
+  "total with arrears and deductions": 6776,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 5236
  },
  {
   "year": 2025,
@@ -451,7 +516,12 @@
   "incentive total": 6595,
   "total without arrears": 13285,
   "total with arrears": 13285,
-  "total with arrears and deductions": 13285
+  "total with arrears and deductions": 13285,
+  "vehicle rent": 220,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 13285
  },
  {
   "year": 2025,
@@ -483,7 +553,12 @@
   "incentive total": 3316,
   "total without arrears": 6406,
   "total with arrears": 6406,
-  "total with arrears and deductions": 6406
+  "total with arrears and deductions": 6406,
+  "vehicle rent": 220,
+  "vehicle rent days": 5,
+  "advance payed": 1000,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4306
  },
  {
   "year": 2025,
@@ -516,7 +591,12 @@
   "incentive total": 3775,
   "total without arrears": 8335,
   "total with arrears": 8335,
-  "total with arrears and deductions": 8285
+  "total with arrears and deductions": 8285,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 600,
+  "pending payment": 0,
+  "Final Settlement Transferred": 6145
  },
  {
   "year": 2025,
@@ -548,7 +628,12 @@
   "incentive total": 444,
   "total without arrears": 1584,
   "total with arrears": 1584,
-  "total with arrears and deductions": 1584
+  "total with arrears and deductions": 1584,
+  "vehicle rent": 220,
+  "vehicle rent days": 3,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 924
  },
  {
   "year": 2025,
@@ -580,7 +665,12 @@
   "incentive total": 900,
   "total without arrears": 2730,
   "total with arrears": 2730,
-  "total with arrears and deductions": 2730
+  "total with arrears and deductions": 2730,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1190
  },
  {
   "year": 2025,
@@ -612,7 +702,12 @@
   "incentive total": 3690,
   "total without arrears": 7770,
   "total with arrears": 7770,
-  "total with arrears and deductions": 7770
+  "total with arrears and deductions": 7770,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 6230
  },
  {
   "year": 2025,
@@ -644,7 +739,12 @@
   "incentive total": 1258,
   "total without arrears": 4288,
   "total with arrears": 4288,
-  "total with arrears and deductions": 4288
+  "total with arrears and deductions": 4288,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 800,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1948
  },
  {
   "year": 2025,
@@ -677,7 +777,12 @@
   "incentive total": 1626,
   "total without arrears": 4746,
   "total with arrears": 4746,
-  "total with arrears and deductions": 4696
+  "total with arrears and deductions": 4696,
+  "vehicle rent": 220,
+  "vehicle rent days": 5,
+  "advance payed": 0,
+  "pending payment": -616,
+  "Final Settlement Transferred": 2980
  },
  {
   "year": 2025,
@@ -710,7 +815,12 @@
   "incentive total": 2516.659912109375,
   "total without arrears": 5216.66015625,
   "total with arrears": 5216.66015625,
-  "total with arrears and deductions": 4901.66015625
+  "total with arrears and deductions": 4901.66015625,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 1300,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2061.66
  },
  {
   "year": 2025,
@@ -743,7 +853,12 @@
   "incentive total": 1221,
   "total without arrears": 3621,
   "total with arrears": 3621,
-  "total with arrears and deductions": 3571
+  "total with arrears and deductions": 3571,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2031
  },
  {
   "year": 2025,
@@ -776,7 +891,12 @@
   "incentive total": 2650,
   "total without arrears": 6910,
   "total with arrears": 6910,
-  "total with arrears and deductions": 6860
+  "total with arrears and deductions": 6860,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 5320
  },
  {
   "year": 2025,
@@ -808,7 +928,12 @@
   "incentive total": 1554,
   "total without arrears": 4614,
   "total with arrears": 4614,
-  "total with arrears and deductions": 4614
+  "total with arrears and deductions": 4614,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3294
  },
  {
   "year": 2025,
@@ -840,7 +965,12 @@
   "incentive total": 319.2699890136719,
   "total without arrears": 709.27001953125,
   "total with arrears": 709.27001953125,
-  "total with arrears and deductions": 709.27001953125
+  "total with arrears and deductions": 709.27001953125,
+  "vehicle rent": 220,
+  "vehicle rent days": 1,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 489.27
  },
  {
   "year": 2025,
@@ -872,7 +1002,12 @@
   "incentive total": 570,
   "total without arrears": 2640,
   "total with arrears": 2640,
-  "total with arrears and deductions": 2640
+  "total with arrears and deductions": 2640,
+  "vehicle rent": 200,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": -131,
+  "Final Settlement Transferred": 1309
  },
  {
   "year": 2025,
@@ -904,7 +1039,12 @@
   "incentive total": 1840,
   "total without arrears": 4450,
   "total with arrears": 4450,
-  "total with arrears and deductions": 4450
+  "total with arrears and deductions": 4450,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3130
  },
  {
   "year": 2025,
@@ -936,7 +1076,12 @@
   "incentive total": 1242.56005859375,
   "total without arrears": 4302.56005859375,
   "total with arrears": 4302.56005859375,
-  "total with arrears and deductions": 4302.56005859375
+  "total with arrears and deductions": 4302.56005859375,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2762.56
  },
  {
   "year": 2025,
@@ -968,7 +1113,12 @@
   "incentive total": 1437.43994140625,
   "total without arrears": 4227.43994140625,
   "total with arrears": 4227.43994140625,
-  "total with arrears and deductions": 4227.43994140625
+  "total with arrears and deductions": 4227.43994140625,
+  "vehicle rent": 220,
+  "vehicle rent days": 5,
+  "advance payed": 400,
+  "pending payment": -38.68,
+  "Final Settlement Transferred": 2688.76
  },
  {
   "year": 2025,
@@ -1000,7 +1150,12 @@
   "incentive total": 1438,
   "total without arrears": 4348,
   "total with arrears": 4348,
-  "total with arrears and deductions": 4348
+  "total with arrears and deductions": 4348,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2808
  },
  {
   "year": 2025,
@@ -1032,7 +1187,12 @@
   "incentive total": 3555,
   "total without arrears": 9035,
   "total with arrears": 9035,
-  "total with arrears and deductions": 9035
+  "total with arrears and deductions": 9035,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 900,
+  "pending payment": 0,
+  "Final Settlement Transferred": 6595
  },
  {
   "year": 2025,
@@ -1064,7 +1224,12 @@
   "incentive total": 2104,
   "total without arrears": 5914,
   "total with arrears": 5914,
-  "total with arrears and deductions": 5914
+  "total with arrears and deductions": 5914,
+  "vehicle rent": 200,
+  "vehicle rent days": 7,
+  "advance payed": 1400,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3114
  },
  {
   "year": 2025,
@@ -1096,7 +1261,12 @@
   "incentive total": 2966,
   "total without arrears": 7736,
   "total with arrears": 7736,
-  "total with arrears and deductions": 7736
+  "total with arrears and deductions": 7736,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 1100,
+  "pending payment": 0,
+  "Final Settlement Transferred": 5096
  },
  {
   "year": 2025,
@@ -1130,7 +1300,12 @@
   "incentive total": 6943.35009765625,
   "total without arrears": 12373.349609375,
   "total with arrears": 12673.349609375,
-  "total with arrears and deductions": 12521.349609375
+  "total with arrears and deductions": 12521.349609375,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 500,
+  "pending payment": 0,
+  "Final Settlement Transferred": 10481.35
  },
  {
   "year": 2025,
@@ -1162,7 +1337,12 @@
   "incentive total": 943,
   "total without arrears": 2893,
   "total with arrears": 2893,
-  "total with arrears and deductions": 2893
+  "total with arrears and deductions": 2893,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1353
  },
  {
   "year": 2025,
@@ -1194,7 +1374,12 @@
   "incentive total": 167,
   "total without arrears": 1187,
   "total with arrears": 1187,
-  "total with arrears and deductions": 1187
+  "total with arrears and deductions": 1187,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": -353
  },
  {
   "year": 2025,
@@ -1226,7 +1411,12 @@
   "incentive total": 393,
   "total without arrears": 1563,
   "total with arrears": 1563,
-  "total with arrears and deductions": 1563
+  "total with arrears and deductions": 1563,
+  "vehicle rent": 220,
+  "vehicle rent days": 4,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 683
  },
  {
   "year": 2025,
@@ -1258,7 +1448,12 @@
   "incentive total": 969,
   "total without arrears": 6309,
   "total with arrears": 6309,
-  "total with arrears and deductions": 6309
+  "total with arrears and deductions": 6309,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 6309
  },
  {
   "year": 2025,
@@ -1290,7 +1485,12 @@
   "incentive total": 6315,
   "total without arrears": 13155,
   "total with arrears": 13155,
-  "total with arrears and deductions": 13155
+  "total with arrears and deductions": 13155,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 13155
  },
  {
   "year": 2025,
@@ -1322,7 +1522,12 @@
   "incentive total": 517,
   "total without arrears": 1567,
   "total with arrears": 1567,
-  "total with arrears and deductions": 1567
+  "total with arrears and deductions": 1567,
+  "vehicle rent": 220,
+  "vehicle rent days": 4,
+  "advance payed": 0,
+  "pending payment": -80,
+  "Final Settlement Transferred": 607
  },
  {
   "year": 2025,
@@ -1354,7 +1559,12 @@
   "incentive total": 763,
   "total without arrears": 2593,
   "total with arrears": 2593,
-  "total with arrears and deductions": 2593
+  "total with arrears and deductions": 2593,
+  "vehicle rent": 220,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2593
  },
  {
   "year": 2025,
@@ -1386,7 +1596,12 @@
   "incentive total": 3063,
   "total without arrears": 6573,
   "total with arrears": 6573,
-  "total with arrears and deductions": 6573
+  "total with arrears and deductions": 6573,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 1000,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4033
  },
  {
   "year": 2025,
@@ -1418,7 +1633,12 @@
   "incentive total": 4488,
   "total without arrears": 9258,
   "total with arrears": 9258,
-  "total with arrears and deductions": 9258
+  "total with arrears and deductions": 9258,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 7718
  },
  {
   "year": 2025,
@@ -1450,7 +1670,12 @@
   "incentive total": 2019,
   "total without arrears": 5859,
   "total with arrears": 5859,
-  "total with arrears and deductions": 5859
+  "total with arrears and deductions": 5859,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4319
  },
  {
   "year": 2025,
@@ -1482,7 +1707,12 @@
   "incentive total": 12,
   "total without arrears": 132,
   "total with arrears": 132,
-  "total with arrears and deductions": 132
+  "total with arrears and deductions": 132,
+  "vehicle rent": 220,
+  "vehicle rent days": 1,
+  "advance payed": 0,
+  "pending payment": -1243,
+  "Final Settlement Transferred": -1331
  },
  {
   "year": 2025,
@@ -1514,7 +1744,12 @@
   "incentive total": 1964,
   "total without arrears": 5504,
   "total with arrears": 5504,
-  "total with arrears and deductions": 5504
+  "total with arrears and deductions": 5504,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 3964
  },
  {
   "year": 2025,
@@ -1546,7 +1781,12 @@
   "incentive total": 1921,
   "total without arrears": 5011,
   "total with arrears": 5011,
-  "total with arrears and deductions": 5011
+  "total with arrears and deductions": 5011,
+  "vehicle rent": 220,
+  "vehicle rent days": 4,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4131
  },
  {
   "year": 2025,
@@ -1578,7 +1818,12 @@
   "incentive total": 3632,
   "total without arrears": 7292,
   "total with arrears": 7292,
-  "total with arrears and deductions": 7292
+  "total with arrears and deductions": 7292,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 500,
+  "pending payment": 0,
+  "Final Settlement Transferred": 5472
  },
  {
   "year": 2025,
@@ -1610,7 +1855,12 @@
   "incentive total": 199,
   "total without arrears": 589,
   "total with arrears": 589,
-  "total with arrears and deductions": 589
+  "total with arrears and deductions": 589,
+  "vehicle rent": 220,
+  "vehicle rent days": 1,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 369
  },
  {
   "year": 2025,
@@ -1642,7 +1892,12 @@
   "incentive total": 2274,
   "total without arrears": 6384,
   "total with arrears": 6384,
-  "total with arrears and deductions": 6384
+  "total with arrears and deductions": 6384,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4844
  },
  {
   "year": 2025,
@@ -1674,7 +1929,12 @@
   "incentive total": 4080,
   "total without arrears": 8580,
   "total with arrears": 8580,
-  "total with arrears and deductions": 8580
+  "total with arrears and deductions": 8580,
+  "vehicle rent": 220,
+  "vehicle rent days": 7,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 7040
  },
  {
   "year": 2025,
@@ -1706,7 +1966,12 @@
   "incentive total": 693,
   "total without arrears": 2493,
   "total with arrears": 2493,
-  "total with arrears and deductions": 2493
+  "total with arrears and deductions": 2493,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2493
  },
  {
   "year": 2025,
@@ -1738,7 +2003,12 @@
   "incentive total": 275,
   "total without arrears": 785,
   "total with arrears": 785,
-  "total with arrears and deductions": 785
+  "total with arrears and deductions": 785,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 785
  },
  {
   "year": 2025,
@@ -1770,7 +2040,12 @@
   "incentive total": 2804.06005859375,
   "total without arrears": 7274.06005859375,
   "total with arrears": 7274.06005859375,
-  "total with arrears and deductions": 7274.06005859375
+  "total with arrears and deductions": 7274.06005859375,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 1500,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4454.06
  },
  {
   "year": 2025,
@@ -1802,7 +2077,12 @@
   "incentive total": 2323,
   "total without arrears": 5563,
   "total with arrears": 5563,
-  "total with arrears and deductions": 5563
+  "total with arrears and deductions": 5563,
+  "vehicle rent": 220,
+  "vehicle rent days": 5,
+  "advance payed": 3400,
+  "pending payment": 0,
+  "Final Settlement Transferred": 1063
  },
  {
   "year": 2025,
@@ -1835,7 +2115,12 @@
   "incentive total": 2173,
   "total without arrears": 5983,
   "total with arrears": 5983,
-  "total with arrears and deductions": 5906
+  "total with arrears and deductions": 5906,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 4586
  },
  {
   "year": 2025,
@@ -1867,7 +2152,12 @@
   "incentive total": 2827,
   "total without arrears": 7237,
   "total with arrears": 7237,
-  "total with arrears and deductions": 7237
+  "total with arrears and deductions": 7237,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 2000,
+  "pending payment": 0,
+  "Final Settlement Transferred": 5237
  },
  {
   "year": 2025,
@@ -1899,7 +2189,12 @@
   "incentive total": 1559.469970703125,
   "total without arrears": 4259.47021484375,
   "total with arrears": 4259.47021484375,
-  "total with arrears and deductions": 4259.47021484375
+  "total with arrears and deductions": 4259.47021484375,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 0,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2939.47
  },
  {
   "year": 2025,
@@ -1931,7 +2226,12 @@
   "incentive total": 0,
   "total without arrears": 570,
   "total with arrears": 570,
-  "total with arrears and deductions": 570
+  "total with arrears and deductions": 570,
+  "vehicle rent": 0,
+  "vehicle rent days": 0,
+  "advance payed": 0,
+  "pending payment": -140,
+  "Final Settlement Transferred": -10
  },
  {
   "year": 2025,
@@ -1963,7 +2263,12 @@
   "incentive total": 1424,
   "total without arrears": 4544,
   "total with arrears": 4544,
-  "total with arrears and deductions": 4544
+  "total with arrears and deductions": 4544,
+  "vehicle rent": 220,
+  "vehicle rent days": 6,
+  "advance payed": 1000,
+  "pending payment": 0,
+  "Final Settlement Transferred": 2224
  },
  {
   "year": 2025,
@@ -1995,7 +2300,12 @@
   "incentive total": 1129,
   "total without arrears": 3379,
   "total with arrears": 3379,
-  "total with arrears and deductions": 3379
+  "total with arrears and deductions": 3379,
+  "vehicle rent": 220,
+  "vehicle rent days": 3,
+  "advance payed": 300,
+  "pending payment": 39,
+  "Final Settlement Transferred": 2380
  }
 ]
 }
